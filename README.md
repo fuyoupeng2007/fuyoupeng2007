@@ -2,6 +2,24 @@
 
 这里整理可以直接查看的工具、研究记录和实验作品。各项目的运行说明、验证依据与限制见对应仓库。
 
+## 电鸭个人作品集
+
+**[在线体验九个样品](https://fuyoupeng2007.github.io/eleduck-work-samples/)** · [源码与运行说明](https://github.com/fuyoupeng2007/eleduck-work-samples) · [需求与竞品对照](https://fuyoupeng2007.github.io/eleduck-work-samples/research/)
+
+AI 协作开发的个人样品，包含业务工具、交互原型、数据分析与品牌网站。虚构数据，未宣称真实客户委托或生产系统验收。
+
+| 项目 | 能力 | 体验 |
+| --- | --- | --- |
+| [澄色门店经营看板](https://github.com/fuyoupeng2007/eleduck-work-samples/tree/main/docs/salon) | 数据分析 | [打开](https://fuyoupeng2007.github.io/eleduck-work-samples/salon/) |
+| [序场会展运营原型](https://github.com/fuyoupeng2007/eleduck-work-samples/tree/main/docs/expo) | 产品原型 | [打开](https://fuyoupeng2007.github.io/eleduck-work-samples/expo/) |
+| [MASON METAL 银饰概念站](https://github.com/fuyoupeng2007/eleduck-work-samples/tree/main/docs/mason) | 品牌网站 | [打开](https://fuyoupeng2007.github.io/eleduck-work-samples/mason/) |
+| [合序企业流程台](https://github.com/fuyoupeng2007/eleduck-work-samples/tree/main/docs/ops) | 业务工具 | [打开](https://fuyoupeng2007.github.io/eleduck-work-samples/ops/) |
+| [渡单跨境订单工作台](https://github.com/fuyoupeng2007/eleduck-work-samples/tree/main/docs/orders) | 运营工具 | [打开](https://fuyoupeng2007.github.io/eleduck-work-samples/orders/) |
+| [钓迹钓点与渔获日志](https://github.com/fuyoupeng2007/eleduck-work-samples/tree/main/docs/fish) | 移动原型 | [打开](https://fuyoupeng2007.github.io/eleduck-work-samples/fish/) |
+| [鲜集团购与供应链原型](https://github.com/fuyoupeng2007/eleduck-work-samples/tree/main/docs/fresh) | 电商原型 | [打开](https://fuyoupeng2007.github.io/eleduck-work-samples/fresh/) |
+| [构件BOM与迁移核查](https://github.com/fuyoupeng2007/eleduck-work-samples/tree/main/docs/bom) | 数据工具 | [打开](https://fuyoupeng2007.github.io/eleduck-work-samples/bom/) |
+| [验流CRM质检工作台](https://github.com/fuyoupeng2007/eleduck-work-samples/tree/main/docs/qa) | 测试工具 | [打开](https://fuyoupeng2007.github.io/eleduck-work-samples/qa/) |
+
 ## 黑客松作品
 
 **[Hackathon Lab 2026](https://github.com/fuyoupeng2007/hackathon-lab-2026)** · [在线作品入口](https://fuyoupeng2007.github.io/hackathon-lab-2026/)
@@ -22,7 +40,6 @@
 
 - [Subscription Guardian](https://github.com/fuyoupeng2007/subscription-guardian)：订阅管理项目。
 - [Zombie Tradeoff](https://github.com/fuyoupeng2007/zombie-tradeoff)：浏览器游戏。
-- [Eleduck Work Samples](https://github.com/fuyoupeng2007/eleduck-work-samples)：AI 辅助的应用作品样例。
 
 ## 学习记录
 
