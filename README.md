@@ -2,6 +2,14 @@
 
 这里整理可以直接查看的工具、研究记录和实验作品。各项目的运行说明、验证依据与限制见对应仓库。
 
+## 近期作品 · 2026 年 11 月
+
+| 作品 | 可以做什么 | 入口 |
+| --- | --- | --- |
+| 江岸见 | 跟随小江豚游览武汉，在互动地图上探索地标、体验城市建设小游戏。 | [在线体验](https://fuyoupeng2007.github.io/jiang-an-jian/) · [安卓与版本说明](https://github.com/fuyoupeng2007/jiang-an-jian/releases/tag/v2.0) |
+| 随剪 Studio | 导入照片和视频，按文字要求生成时间线，回看原素材、调整镜头并导出 MP4。 | [源码与本地启动](https://github.com/fuyoupeng2007/suijian-studio) |
+| 十一月作品手记 | 从消息生成日程、用反例检验算法、旋转拆解一部概念手机，或运行数字频率计仿真。 | [打开作品目录](https://fuyoupeng2007.github.io/prototype-notebook/) · [源码](https://github.com/fuyoupeng2007/prototype-notebook) |
+
 ## 电鸭个人作品集
 
 **[在线体验九个样品](https://fuyoupeng2007.github.io/eleduck-work-samples/)** · [源码与运行说明](https://github.com/fuyoupeng2007/eleduck-work-samples) · [需求与竞品对照](https://fuyoupeng2007.github.io/eleduck-work-samples/research/)
