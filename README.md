@@ -41,6 +41,8 @@ AI 协作开发的个人样品，包含业务工具、交互原型、数据分�
 
 ## 文档与研究工具
 
+- [财报表格问答实验](https://github.com/fuyoupeng2007/table-scope-study)比较四种方法在 171 道开发集问题上的表现，附有可运行的表格比较示例和分组结果。
+
 - [PaperLoop Agent](https://github.com/fuyoupeng2007/paperloop-agent)：PDF 阅读与研究工作流。
 - [MonkeyOCR 复现](https://github.com/fuyoupeng2007/monkeyocr-repro)：环境修复、基线比较与实验记录。
 
